@@ -29,6 +29,7 @@ public class BufferAndBuilder{
         System.out.println("hot分支");
         System.out.println("hot分支master");
         System.out.println("hot分支2");
+        System.out.println("push");
 
 
     }
