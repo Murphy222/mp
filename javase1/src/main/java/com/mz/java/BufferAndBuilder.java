@@ -26,6 +26,7 @@ public class BufferAndBuilder{
         list.add(3);
         System.out.println(list.get(0));
         System.out.println("你妈死了");
+        System.out.println("hot分支");
         
 
     }
