@@ -27,6 +27,7 @@ public class BufferAndBuilder{
         System.out.println(list.get(0));
         System.out.println("你妈死了");
         System.out.println("hot分支");
+        System.out.println("hot分支master");
         
 
     }
