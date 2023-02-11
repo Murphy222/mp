@@ -30,6 +30,7 @@ public class BufferAndBuilder{
         System.out.println("hot分支master");
         System.out.println("hot分支2");
         System.out.println("push");
+        System.out.println("pull");
 
 
     }
